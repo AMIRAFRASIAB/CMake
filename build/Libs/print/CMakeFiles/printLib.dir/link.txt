@@ -1,0 +1,2 @@
+C:/MinGW/bin/ar.exe qc libprintLib.a CMakeFiles/printLib.dir/Src/print.cpp.obj
+C:/MinGW/bin/ranlib.exe libprintLib.a

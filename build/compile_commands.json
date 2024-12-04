@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/AMIR/Desktop/cpp-projects/hello_world/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/ex.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/ex.dir/main.cpp.obj -c C:/Users/AMIR/Desktop/cpp-projects/hello_world/main.cpp",
+  "file": "C:/Users/AMIR/Desktop/cpp-projects/hello_world/main.cpp",
+  "output": "CMakeFiles/ex.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/AMIR/Desktop/cpp-projects/hello_world/build/Libs/print",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/printLib.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/printLib.dir/Src/print.cpp.obj -c C:/Users/AMIR/Desktop/cpp-projects/hello_world/Libs/print/Src/print.cpp",
+  "file": "C:/Users/AMIR/Desktop/cpp-projects/hello_world/Libs/print/Src/print.cpp",
+  "output": "Libs/print/CMakeFiles/printLib.dir/Src/print.cpp.obj"
+}
+]

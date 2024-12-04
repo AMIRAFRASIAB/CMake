@@ -1,0 +1,6 @@
+C:/Users/AMIR/Desktop/cpp-projects/hello_world/build/CMakeFiles/ex.dir
+C:/Users/AMIR/Desktop/cpp-projects/hello_world/build/CMakeFiles/edit_cache.dir
+C:/Users/AMIR/Desktop/cpp-projects/hello_world/build/CMakeFiles/rebuild_cache.dir
+C:/Users/AMIR/Desktop/cpp-projects/hello_world/build/Libs/print/CMakeFiles/printLib.dir
+C:/Users/AMIR/Desktop/cpp-projects/hello_world/build/Libs/print/CMakeFiles/edit_cache.dir
+C:/Users/AMIR/Desktop/cpp-projects/hello_world/build/Libs/print/CMakeFiles/rebuild_cache.dir
